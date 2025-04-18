@@ -8,13 +8,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyguspedrosa" alt="heyguspedrosa" /></a> </p>
-
-- 🌱 Atualmente aprendendo **Html, CSS e Javascript**
+- 🌱 Atualmente estudando **Html, CSS e Javascript**
 
 - 📫 Contato **heyguspedrosa@gmail.com**
 
@@ -22,7 +16,7 @@
 
 ###
 
-<h2 align="left">Aprendendo</h2>
+### 🧰 Languages and Tools
 
 ###
 
@@ -53,9 +47,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+### 📊 Stats
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyguspedrosa&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=heyguspedrosa&theme=gruvbox&border_radius=4.5) -->
 
 ###
