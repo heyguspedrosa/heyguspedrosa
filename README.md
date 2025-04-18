@@ -14,11 +14,9 @@
 
 - 📄 Minhas outras experiências [https://www.linkedin.com/in/guspedrosa/](https://www.linkedin.com/in/guspedrosa/)
 
-###
+---
 
 ### 🧰 Languages and Tools
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -48,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
 </div>
+
+#
 
 ### 📊 Stats
 
