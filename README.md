@@ -1,14 +1,14 @@
 # 🧑‍💻 Gustavo Pedrosa
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Fullstack`**
 
 ###
 
-<p align="left">Atualmente em transição de carreira para a área de Desenvolvimento de Software, Web e Mobile adquirindo conhecimento em HTML, CSS, JavaScript, TypeScript, React e Nextjs (Frontend); API, Nodejs, Express e MySQL (backend).<br><br>Designer Gráfico de formação e pós-graduado em UX e UI, somando mais de 12 anos de experiência em comunicação visual, agências de publicidade e design.<br><br>Desenvoltura em equipe, tomada de decisões, boa comunicação, criatividade e iniciativa.</p>
+<p align="left">Atualmente cursando Engenharia de Software e em transição de carreira para a área de Desenvolvimento de Software, Web e Mobile adquirindo conhecimento em HTML, CSS, JavaScript, TypeScript, React e Nextjs (Frontend); API, Nodejs, Express e MySQL (backend).<br><br>Designer Gráfico de formação e pós-graduado em UX e UI, somando mais de 12 anos de experiência em comunicação visual, agências de publicidade e design.<br><br>Desenvoltura em equipe, tomada de decisões, boa comunicação, criatividade e iniciativa.</p>
 
 ###
 
-- 🌱 Atualmente estudando **Html, CSS e Javascript**
+- 🌱 Atualmente estudando **Html, CSS, Javascript, Lógica de programação e Node.js**
 
 - 📫 Contato **heyguspedrosa@gmail.com**
 
