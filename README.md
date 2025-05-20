@@ -8,7 +8,7 @@
 
 ###
 
-- 🌱 Atualmente estudando **Html, CSS, Javascript, Lógica de programação e Node.js**
+- 🌱 Atualmente estudando **Html, CSS, Javascript, Lógica de programação, Node.js e React**
 
 - 📫 Contato **heyguspedrosa@gmail.com**
 
