@@ -1,6 +1,6 @@
 # 🧑‍💻 Gustavo Pedrosa
 
-**`Desenvolvedor Fullstack em formação`**
+**`Desenvolvedor Fullstack`**
 
 ###
 
