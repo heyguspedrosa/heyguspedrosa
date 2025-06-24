@@ -1,4 +1,4 @@
-# Gustavo Pedrosa ✌️
+# Olá, sou Gustavo Pedrosa! ✌️
 
 Estudante de Engenharia de Software e em transição de carreira para a área de Desenvolvimento de Software.
 
