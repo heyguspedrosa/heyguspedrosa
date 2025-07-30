@@ -1,8 +1,8 @@
 # Olá, sou Gustavo Pedrosa! ✌️
 
-Estudante de Engenharia de Software e em transição de carreira para a área de Desenvolvimento de Software.
+Desenvolvedor em transição de carreira, atualmente cursando Engenharia de Software e focado em Backend com Java, Spring Boot, Python, DevOps e bancos de dados como MySQL.
 
-Designer Gráfico de formação e pós-graduado em UX e UI.
+Tenho experiência prática no desenvolvimento de aplicações web completas, incluindo back-end com APIs RESTful, autenticação/autorização, integração com serviços externos, conceitos de versionamento (Git/GitHub), banco de dados, frontend e deploy em produção.
 
  ## 📱 Conecte-se Comigo !
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/guspedrosa)
