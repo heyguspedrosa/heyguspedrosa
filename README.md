@@ -6,7 +6,7 @@ Tenho experiência prática no desenvolvimento de aplicações web completas, in
 
  ## 📱 Conecte-se Comigo !
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guspedrosa)
-[![Mastodon](https://img.shields.io/badge/mastodon-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://mastodon.social/@guspedrosa)
+[![Mastodon](https://img.shields.io/badge/mastodon-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=#6260FA)](https://mastodon.social/@guspedrosa)
 
 
 ## :mortar_board: O que estou aprendendo:
