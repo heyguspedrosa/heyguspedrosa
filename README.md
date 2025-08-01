@@ -5,8 +5,8 @@ Desenvolvedor em transição de carreira, atualmente cursando Engenharia de Soft
 Tenho experiência prática no desenvolvimento de aplicações web completas, incluindo back-end com APIs RESTful, autenticação/autorização, integração com serviços externos, conceitos de versionamento (Git/GitHub), banco de dados, frontend e deploy em produção.
 
  ## 📱 Conecte-se Comigo !
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/guspedrosa)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guspedrosa)
+[![Mastodon](https://img.shields.io/badge/mastodon-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://mastodon.social/@guspedrosa)
 
 
 ## :mortar_board: O que estou aprendendo:
