@@ -11,6 +11,7 @@ Me destaco pela boa comunicação, iniciativa, criatividade, trabalho em equipe 
 Busco oportunidades como Desenvolvedor Frontend ou Fullstack Júnior, contribuindo com soluções de qualidade, código limpo e com foco no usuário, enquanto continuo aprendendo com o time e evoluindo na área.
 
 🔗 GitHub: github.com/heyguspedrosa
+
 📧 Email: heyguspedrosa@gmail.com
 
 
