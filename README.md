@@ -1,8 +1,6 @@
-# Olá, sou Gustavo Pedrosa! ✌️
+# Olá 👋
 
-Desenvolvedor Fullstack, cursando Engenharia de Software e atuando com foco no desenvolvimento de aplicações web completas, utilizando tecnologias modernas no frontend e backend.
-
-No frontend, tenho experiência prática com React, TypeScript, JavaScript (ES6+), HTML, CSS (Sass, Tailwind), além de testes com Jest/Testing Library e integração com APIs RESTful. No backend, estou em constante evolução, utilizando Node.js, Express, Prisma, bancos de dados como MongoDB e PostgreSQL, além de conhecimento em autenticação, CRUD e deploy. Possuo também noções básicas de Java e Python.
+Desenvolvedor Fullstack, cursando Engenharia de Software. Atuo com desenvolvimento de aplicações web utilizando React, TypeScript, Node.js, Express, Prisma, MongoDB e PostgreSQL. Experiência com Jest, APIs RESTful, CI/CD, e boas práticas de UI/UX. Conhecimentos em Java e Python. Foco em performance, acessibilidade e código limpo.
 
 🔗 GitHub: github.com/heyguspedrosa
 
