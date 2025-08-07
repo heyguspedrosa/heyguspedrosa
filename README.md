@@ -1,17 +1,18 @@
 # Olá, sou Gustavo Pedrosa! ✌️
 
-Desenvolvedor em transição de carreira, cursando Engenharia de Software e atualmente focado no desenvolvimento Frontend com tecnologias modernas como React, TypeScript, JavaScript (ES6+), HTML, CSS (Sass, Tailwind), testes com Jest/Testing Library, além de integração com APIs RESTful e deploy de aplicações.
+Desenvolvedor Fullstack em transição de carreira, cursando Engenharia de Software e atuando com foco no desenvolvimento de aplicações web completas, utilizando tecnologias modernas no frontend e backend.
 
-Tenho experiência prática na criação de aplicações web completas, com atenção à performance, responsividade, acessibilidade e boas práticas de UI/UX. Também utilizo ferramentas como Git/GitHub, Figma, CI/CD e versionamento de código no dia a dia.
+No frontend, tenho experiência prática com React, TypeScript, JavaScript (ES6+), HTML, CSS (Sass, Tailwind), além de testes com Jest/Testing Library e integração com APIs RESTful. No backend, estou em constante evolução, utilizando Node.js, Express, Prisma, bancos de dados como MongoDB e PostgreSQL, além de conhecimento em autenticação, CRUD e deploy. Possuo também noções básicas de Java e Python.
 
-Profissional com mais de 12 anos de experiência em Design Gráfico, pós-graduado em UX/UI Design, com atuação em agências de publicidade e equipes criativas. Essa bagagem fortalece minha visão de produto, usabilidade e design centrado no usuário, agregando muito valor no desenvolvimento de interfaces modernas e intuitivas.
+Trabalho com versionamento de código (Git/GitHub), pipelines de CI/CD, Figma para prototipação e foco em performance, acessibilidade, responsividade e boas práticas de UI/UX no desenvolvimento.
 
-Me destaco pela boa comunicação, iniciativa, criatividade, trabalho em equipe e pela facilidade de adaptação — habilidades essenciais que trago da minha jornada anterior e aplico na área de tecnologia.
+Com mais de 12 anos de experiência em Design Gráfico, e pós-graduação em UX/UI Design, trago uma visão de produto sólida, com forte ênfase em usabilidade, design centrado no usuário e experiência final — diferencial que enriquece o desenvolvimento de soluções modernas e intuitivas.
 
-Busco oportunidades como Desenvolvedor Frontend ou Fullstack Júnior, contribuindo com soluções de qualidade, código limpo e com foco no usuário, enquanto continuo aprendendo com o time e evoluindo na área.
+Minhas principais soft skills são: boa comunicação, iniciativa, criatividade, trabalho em equipe e facilidade de adaptação. São habilidades que vêm da minha trajetória anterior e aplico diretamente no dia a dia como desenvolvedor.
+
+Busco oportunidades como Desenvolvedor Fullstack Júnior ou estágio, onde possa contribuir com soluções de ponta a ponta, código limpo e centrado no usuário, enquanto continuo crescendo tecnicamente e aprendendo com o time.
 
 🔗 GitHub: github.com/heyguspedrosa
-
 📧 Email: heyguspedrosa@gmail.com
 
 
