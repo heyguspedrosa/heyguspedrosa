@@ -1,6 +1,6 @@
 # Olá 👋
 
-Desenvolvedor Fullstack, cursando Engenharia de Software. Atuo com desenvolvimento de aplicações web utilizando React, TypeScript, Node.js, Express, Prisma, MongoDB e PostgreSQL. Experiência com Jest, APIs RESTful, CI/CD, e boas práticas de UI/UX. Conhecimentos em Java e Python. Foco em performance, acessibilidade e código limpo.
+Desenvolvedor Frontend, cursando Engenharia de Software. Atuo com desenvolvimento de aplicações web utilizando React, TypeScript, Node.js, Express, Prisma, MongoDB e PostgreSQL. Experiência com Jest, APIs RESTful, CI/CD, e boas práticas de UI/UX. Conhecimentos em Java e Python. Foco em performance, acessibilidade e código limpo.
 
 🔗 GitHub: github.com/heyguspedrosa
 
