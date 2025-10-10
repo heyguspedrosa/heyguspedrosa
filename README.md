@@ -5,7 +5,7 @@ Trabalhei por mais de **12 anos com design**, o que me permitiu desenvolver uma 
 
 ---
 
-## 🚀 O que estou aprendendo
+## O que estou aprendendo
 
 - **Testes funcionais, E2E e de componentes (frontend)** com **Cypress** e **Selenium**  
 - **Testes de API** com **Cypress** e **Postman**  
@@ -20,15 +20,13 @@ Trabalhei por mais de **12 anos com design**, o que me permitiu desenvolver uma 
 
 ---
 
-## 🎯 Objetivo
-
 Busco oportunidades como **Analista de QA Júnior** ou **Estagiário em QA**, para **aplicar minhas habilidades**, **aprender continuamente** e **contribuir para a melhoria contínua dos processos de teste e desenvolvimento**.
 
 ---
 
-## 🌐 Contato
+## Contato
 
-- 💻 [**GitHub**](https://github.com/heyguspedrosa)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/guspedrosa)
 - ✉️ **Email:** [heyguspedrosa@gmail.com](mailto:heyguspedrosa@gmail.com)
 
 
