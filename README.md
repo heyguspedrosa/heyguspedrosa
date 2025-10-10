@@ -1,24 +1,35 @@
-# Olá, sou o Gustavo! 👋
+# 👋 Olá, sou o Gustavo!
 
-Estudante de Engenharia de Software apaixonado por automação e testes de software. Trabalhei por mais de 12 anos com design, o que me permitiu desenvolver uma atenção aos detalhes, ótima comunicação e bom entendimento sobre metodologias e processos.
+**Estudante de Engenharia de Software** apaixonado por **automação e testes de software**.  
+Trabalhei por mais de **12 anos com design**, o que me permitiu desenvolver uma forte **atenção aos detalhes**, **ótima comunicação** e **bom entendimento sobre metodologias e processos**.
 
-O que estou aprendendo:
-› Testes funcionais, E2E e de componentes (frontend) com Cypress e Selenium
-› Testes de API com Cypress e Postman
-› Testes de performance utilizando JMeter
-› Padronização automática com ESLint e Prettier
-› Relatórios de teste utilizando Allure com Cypress
-› Gerenciamento de projetos e rastreamento de itens com Jira
-› Desenvolvimento orientado a testes (TDD) usando Nest.js
-› Desenvolvimento orientado a comportamento (BDD) usando Cucumber
-› Integração Contínua (CI) com GitHub Actions
-› Metodologias Ágeis (Scrum e Kanban)
+---
 
-Busco oportunidades como Analista de QA Júnior ou estágio para aplicar minhas habilidades, aprender continuamente e contribuir com a melhoria contínua dos processos de teste e desenvolvimento.
+## 🚀 O que estou aprendendo
 
-🔗 GitHub: github.com/heyguspedrosa
+- **Testes funcionais, E2E e de componentes (frontend)** com **Cypress** e **Selenium**  
+- **Testes de API** com **Cypress** e **Postman**  
+- **Testes de performance** utilizando **JMeter**  
+- **Padronização automática** com **ESLint** e **Prettier**  
+- **Relatórios de teste** utilizando **Allure** com **Cypress**  
+- **Gerenciamento de projetos e rastreamento de itens** com **Jira**  
+- **Desenvolvimento orientado a testes (TDD)** usando **Nest.js**  
+- **Desenvolvimento orientado a comportamento (BDD)** usando **Cucumber**  
+- **Integração Contínua (CI)** com **GitHub Actions**  
+- **Metodologias Ágeis:** **Scrum** e **Kanban**
 
-📧 Email: heyguspedrosa@gmail.com
+---
+
+## 🎯 Objetivo
+
+Busco oportunidades como **Analista de QA Júnior** ou **Estagiário em QA**, para **aplicar minhas habilidades**, **aprender continuamente** e **contribuir para a melhoria contínua dos processos de teste e desenvolvimento**.
+
+---
+
+## 🌐 Contato
+
+- 💻 [**GitHub**](https://github.com/heyguspedrosa)  
+- ✉️ **Email:** [heyguspedrosa@gmail.com](mailto:heyguspedrosa@gmail.com)
 
 
 <!--
