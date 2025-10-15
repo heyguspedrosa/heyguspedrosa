@@ -1,11 +1,10 @@
 # 👋 Olá, sou o Gustavo!
 
-**Estudante de Engenharia de Software** apaixonado por **automação e testes de software**.  
-Trabalhei por mais de **12 anos com design**, o que me permitiu desenvolver uma forte **atenção aos detalhes**, **ótima comunicação** e **bom entendimento sobre metodologias e processos**.
+**Estudante de Engenharia de Software** em **transição de carreira** para a área de TI e entusiasta de **automação e testes de software**. Possuo mais de **12 anos de experiência como Designer Gráfico**, o que me permitiu desenvolver uma forte **atenção aos detalhes**, **ótima comunicação** e **bom entendimento sobre metodologias e processos**.
 
 ---
 
-## O que estou aprendendo
+## Atualmente, estou me aprofundando em:
 
 - **Testes funcionais, E2E e de componentes (frontend)** com **Cypress** e **Selenium**  
 - **Testes de API** com **Cypress** e **Postman**  
@@ -20,7 +19,7 @@ Trabalhei por mais de **12 anos com design**, o que me permitiu desenvolver uma 
 
 ---
 
-Busco oportunidades como **Analista de QA Júnior** ou **Estagiário em QA**, para **aplicar minhas habilidades**, **aprender continuamente** e **contribuir para a melhoria contínua dos processos de teste e desenvolvimento**.
+Busco a minha primeira oportunidade como **Analista de QA Júnior** ou **Estagiário em QA**, para **aplicar minhas habilidades**, **aprender continuamente** e **contribuir para a melhoria contínua dos processos de teste e desenvolvimento**.
 
 ---
 
