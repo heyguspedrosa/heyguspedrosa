@@ -7,7 +7,9 @@
 ## Atualmente, estou me aprofundando em:
 
 › Desenvolvimento Front-end com **HTML5, CSS3, JavaScript (ES6+) e React.js**
+
 › Criação de **interfaces responsivas e acessíveis** (Mobile First)
+
 › Consumo e integração de **APIs REST**
 › Versionamento e colaboração com **Git e GitHub**
 › Aplicação de boas práticas de **Clean Code, SOLID e Design Responsivo**
