@@ -4,30 +4,6 @@
 
 ---
 
-## Atualmente, estou me aprofundando em:
-
-› Desenvolvimento Front-end com **HTML5, CSS3, JavaScript (ES6+), TypeScript e React.js**
-
-› Criação de **interfaces responsivas e acessíveis** (Mobile First)
-
-› Consumo e integração de **APIs REST**
-
-› Versionamento e colaboração com **Git e GitHub**
-
-› Aplicação de boas práticas de **Clean Code, SOLID e Design Responsivo**
-
-› Metodologias Ágeis (**Scrum e Kanban**) no desenvolvimento de software
-
-› Utilização de ferramentas como **Vite, Node.js, npm e VS Code**
-
-› Prototipagem e Design System com **Figma**, integrando design e código
-
----
-
-Busco minha primeira oportunidade como **Desenvolvedor Front-end Júnior**, onde eu possa unir design e tecnologia para criar experiências digitais de alto impacto, com foco em performance, acessibilidade e usabilidade.
-
----
-
 ## Contato
 
 💼 [**LinkedIn**](https://www.linkedin.com/in/guspedrosa/)
