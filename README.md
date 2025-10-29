@@ -11,11 +11,17 @@
 › Criação de **interfaces responsivas e acessíveis** (Mobile First)
 
 › Consumo e integração de **APIs REST**
+
 › Versionamento e colaboração com **Git e GitHub**
+
 › Aplicação de boas práticas de **Clean Code, SOLID e Design Responsivo**
+
 › Metodologias Ágeis (**Scrum e Kanban**) no desenvolvimento de software
+
 › **Acessibilidade Digital (WCAG)** e melhoria contínua da experiência do usuário
+
 › Utilização de ferramentas como **Vite, Node.js, npm e VS Code**
+
 › Prototipagem e Design System com **Figma**, integrando design e código
 
 ---
