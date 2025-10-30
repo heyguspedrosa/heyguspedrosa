@@ -1,38 +1,34 @@
 # 👋 Olá, sou o Gustavo!
 
-**Estudante de Engenharia de Software** em **transição de carreira** para a área de **Desenvolvimento Front-end**. Possuo mais de **12 anos de experiência como Designer Gráfico**, atuando com criação de interfaces digitais, identidade visual e comunicação de marcas, o que me proporcionou uma sólida base em **estética visual, usabilidade, comunicação e experiência do usuário** — habilidades que hoje aplico na criação de interfaces modernas, funcionais e intuitivas.
+**Estudante de Engenharia de Software** em transição de carreira para a área de **Desenvolvimento Fullstack**.  
+Possuo **mais de 12 anos de experiência como Designer Gráfico**, atuando com **criação de interfaces digitais, identidade visual e comunicação de marcas** — o que me proporcionou uma sólida base em **estética visual, usabilidade, comunicação e experiência do usuário (UX/UI)**.  
+
+Hoje, aplico esse repertório na construção de **aplicações web completas**, unindo **design e tecnologia** para entregar soluções modernas, funcionais e centradas no usuário.  
 
 ---
 
-## Atualmente, estou me aprofundando em:
+### 🚀 Tecnologias e Aprendizados Atuais
 
-› Desenvolvimento Front-end com **HTML5, CSS3, JavaScript (ES6+), TypeScript e React.js**
-
-› Criação de **interfaces responsivas e acessíveis** (Mobile First)
-
-› Consumo e integração de **APIs REST**
-
-› Versionamento e colaboração com **Git e GitHub**
-
-› Aplicação de boas práticas de **Clean Code, SOLID e Design Responsivo**
-
-› Metodologias Ágeis (**Scrum e Kanban**) no desenvolvimento de software
-
-› Utilização de ferramentas como **Vite, Node.js, npm e VS Code**
-
-› Prototipagem e Design System com **Figma**, integrando design e código
+- **Desenvolvimento Fullstack** com `JavaScript (ES6+)`, `TypeScript`, `React.js`, `Node.js` e `Express`
+- **Criação de interfaces responsivas, acessíveis e performáticas** (Mobile First)
+- **Integração de APIs RESTful** e manipulação de dados com `Prisma` e bancos de dados relacionais
+- **Versionamento e colaboração** com `Git` e `GitHub`
+- Aplicação de **boas práticas** de `Clean Code`, `SOLID` e **Design Responsivo**
+- **Metodologias Ágeis** (Scrum e Kanban)
+- Ferramentas: `Vite`, `npm`, `VS Code`, `Postman`
+- **Prototipagem e Design System** com `Figma`, garantindo consistência entre design e código
+- Princípios de **UX/UI Design** aplicados à experiência e interface do usuário  
 
 ---
 
-Busco minha primeira oportunidade como **Desenvolvedor Front-end Júnior**, onde eu possa unir design e tecnologia para criar experiências digitais de alto impacto, com foco em performance, acessibilidade e usabilidade.
+### 🎯 Objetivo Profissional
+
+Busco minha primeira oportunidade como **Desenvolvedor Fullstack Júnior**, onde eu possa integrar minha experiência em design com o desenvolvimento de software para criar **soluções completas, escaláveis e visualmente impactantes** — com foco em **performance, acessibilidade e usabilidade**.  
 
 ---
 
-## Contato
-
-💼 [**LinkedIn**](https://www.linkedin.com/in/guspedrosa/)
-
-✉️ **Email:** [heyguspedrosa@gmail.com](mailto:heyguspedrosa@gmail.com)
+📫 **Vamos nos conectar?**  
+[LinkedIn](https://www.linkedin.com/in/guspedrosa) | [E-mail](mailto:heyguspedrosa@gmail.com)
 
 
 <!--
