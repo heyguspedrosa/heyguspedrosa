@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Gustavo!
 
-**Estudante de Engenharia de Software** em transição de carreira para a área de **Desenvolvimento Fullstack**.  
+**Estudante de Engenharia de Software** em transição de carreira para a área de **Desenvolvimento Fullstack** com foco no **Front-end**.  
 Possuo **mais de 12 anos de experiência como Designer Gráfico**, atuando com **criação de interfaces digitais, identidade visual e comunicação de marcas** — o que me proporcionou uma sólida base em **estética visual, usabilidade, comunicação e experiência do usuário (UX/UI)**.  
 
 Hoje, aplico esse repertório na construção de **aplicações web completas**, unindo **design e tecnologia** para entregar soluções modernas, funcionais e centradas no usuário.  
