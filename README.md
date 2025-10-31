@@ -3,7 +3,7 @@
 **Estudante de Engenharia de Software** em transição de carreira para a área de **TI** e **entusiasta de automação e testes de software**.  
 Possuo **mais de 12 anos de experiência como Designer Gráfico**, o que me permitiu desenvolver **atenção aos detalhes, pensamento crítico, ótima comunicação e boa compreensão de metodologias e processos**.  
 
-Atualmente, estou me aprofundando em práticas e ferramentas voltadas à **garantia da qualidade de software (QA)** e ao **desenvolvimento orientado a testes**.
+Possuo conhecimento nas linguagens de programação **Javascript, Java e noções básicas de Python**. Também possuo experiência prática no **desenvolvimento front-end de aplicações web utilizando React**.
 
 ---
 
@@ -15,7 +15,7 @@ Atualmente, estou me aprofundando em práticas e ferramentas voltadas à **garan
 - **Relatórios de teste** com `Allure` integrado ao `Cypress`
 - **Gerenciamento de projetos** e rastreamento de itens com `Jira`
 - **Desenvolvimento orientado a testes (TDD)** usando `Nest.js`
-- **Desenvolvimento orientado a comportamento (BDD)** usando `Cucumber`
+- **Desenvolvimento orientado a comportamento (BDD)** usando `Cucumber` e `Gherkin`
 - **Integração Contínua (CI)** com `GitHub Actions`
 - **Metodologias Ágeis** (`Scrum` e `Kanban`)
 
