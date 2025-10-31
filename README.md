@@ -17,7 +17,7 @@ Após anos atuando como **Designer Gráfico**, a minha curiosidade em compreende
 - **Integração Contínua (CI)** com `GitHub Actions`
 - **Metodologias Ágeis** (`Scrum` e `Kanban`)
 
-Possuo conhecimento nas linguagens de programação **Javascript, Java e noções básicas de Python**. Também possuo experiência prática no **desenvolvimento front-end de aplicações web utilizando React e Node**.
+Possuo conhecimento nas linguagens de programação **Javascript, Java e noções básicas de Python**. Também possuo experiência prática no **desenvolvimento front-end de aplicações web utilizando React**.
 
 ---
 
