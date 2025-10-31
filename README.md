@@ -1,13 +1,11 @@
 # 👋 Olá, sou o Gustavo!
 
-**Estudante de Engenharia de Software** em transição de carreira para a área de **TI** e **entusiasta de automação e testes de software**.  
-Possuo **mais de 12 anos de experiência como Designer Gráfico**, o que me permitiu desenvolver **atenção aos detalhes, pensamento crítico, ótima comunicação e boa compreensão de metodologias e processos**.  
-
-Possuo conhecimento nas linguagens de programação **Javascript, Java e noções básicas de Python**. Também possuo experiência prática no **desenvolvimento front-end de aplicações web utilizando React**.
+**Estudante de Engenharia de Software** e apaixonado por **tecnologia**.  
+Após anos atuando como **Designer Gráfico**, a minha curiosidade em compreender o funcionamento das coisas me levou a explorar **novos caminhos**. Foi na **automação** e nos **testes de software** — especialmente na área de **Quality Assurance (QA)** — que redescobri minha **motivação** e o **prazer de aprender continuamente**.  
 
 ---
 
-### 🧪 Tecnologias e Aprendizados Atuais
+### 🧪 Tecnologias e Aprendizados Atuais em QA
 
 - **Testes funcionais**, E2E e de componentes (frontend) com `Cypress` e `Selenium`
 - **Testes de API** com `Cypress` e `Postman`
@@ -18,6 +16,8 @@ Possuo conhecimento nas linguagens de programação **Javascript, Java e noçõe
 - **Desenvolvimento orientado a comportamento (BDD)** usando `Cucumber` e `Gherkin`
 - **Integração Contínua (CI)** com `GitHub Actions`
 - **Metodologias Ágeis** (`Scrum` e `Kanban`)
+
+Possuo conhecimento nas linguagens de programação **Javascript, Java e noções básicas de Python**. Também possuo experiência prática no **desenvolvimento front-end de aplicações web utilizando React e Node**.
 
 ---
 
