@@ -28,7 +28,7 @@ Busco minha primeira oportunidade como **Analista de QA Júnior** ou **Estagiár
 ---
 
 📫 **Vamos nos conectar?**  
-[LinkedIn](www.linkedin.com/in/guspedrosa) | [E-mail](mailto:heyguspedrosa@gmail.com)
+[LinkedIn](http://www.linkedin.com/in/guspedrosa) | [E-mail](mailto:heyguspedrosa@gmail.com)
 
 
 <!--
