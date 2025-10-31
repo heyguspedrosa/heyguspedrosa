@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Gustavo!
 
-**Estudante de Engenharia de Software** e apaixonado por **tecnologia**.  
+**Estudante de Engenharia de Software** e apaixonado por **tecnologia e inovação**.  
 Após anos atuando como **Designer Gráfico**, a minha curiosidade em compreender o funcionamento das coisas me levou a explorar **novos caminhos**. Foi na **automação** e nos **testes de software** — especialmente na área de **Quality Assurance (QA)** — que redescobri minha **motivação** e o **prazer de aprender continuamente**.  
 
 ---
