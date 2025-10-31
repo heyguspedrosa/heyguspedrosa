@@ -1,7 +1,7 @@
 # 👋 Olá, sou o Gustavo!
 
-**Estudante de Engenharia de Software** em transição de carreira para a área de **Tecnologia da Informação (TI)** e **entusiasta de automação e testes de software**.  
-Possuo **mais de 12 anos de experiência como Designer Gráfico**, o que me permitiu desenvolver **atenção aos detalhes, pensamento crítico, ótima comunicação e compreensão de metodologias e processos**.  
+**Estudante de Engenharia de Software** em transição de carreira para a área de **TI** e **entusiasta de automação e testes de software**.  
+Possuo **mais de 12 anos de experiência como Designer Gráfico**, o que me permitiu desenvolver **atenção aos detalhes, pensamento crítico, ótima comunicação e boa compreensão de metodologias e processos**.  
 
 Atualmente, estou me aprofundando em práticas e ferramentas voltadas à **garantia da qualidade de software (QA)** e ao **desenvolvimento orientado a testes**.
 
