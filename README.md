@@ -13,7 +13,7 @@ Após anos atuando como **Designer Gráfico**, a minha curiosidade em compreende
 - **Relatórios de teste** com `Allure` integrado ao `Cypress`
 - **Gerenciamento de projetos** e rastreamento de itens com `Jira`
 - **Desenvolvimento orientado a testes (TDD)** usando `Nest.js`
-- **Desenvolvimento orientado a comportamento (BDD)** usando `Cucumber` e `Gherkin`
+- **Desenvolvimento orientado a comportamento (BDD)** usando `Cucumber`
 - **Integração Contínua (CI)** com `GitHub Actions`
 - **Metodologias Ágeis** (`Scrum` e `Kanban`)
 
