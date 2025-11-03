@@ -1,34 +1,35 @@
-# 👋 Olá, sou o Gustavo!
+# 👋 Olá, eu sou o Gustavo!
 
-**Estudante de Engenharia de Software** apaixonado por **tecnologia e inovação**.  
-Após anos atuando como **Designer Gráfico**, a minha curiosidade em compreender o funcionamento das coisas me levou a explorar **novos caminhos**. Foi na **automação** e nos **testes de software** — especialmente na área de **Quality Assurance (QA)** — que redescobri minha **motivação** e o **prazer de aprender continuamente**.  
+🎓 **Estudante de Engenharia de Software** | 🎨 **Pós-graduado em UX/UI Design**  
+💻 Em **transição de carreira para o Desenvolvimento Front-end**  
 
----
-
-### 🧪 Tecnologias e Aprendizados Atuais em QA
-
-- **Testes funcionais**, E2E e de componentes (frontend) com `Cypress` e `Selenium`
-- **Testes de API** com `Cypress` e `Postman`
-- **Testes de performance** utilizando `JMeter`
-- **Relatórios de teste** com `Allure` integrado ao `Cypress`
-- **Gerenciamento de projetos** e rastreamento de itens com `Jira`
-- **Desenvolvimento orientado a testes (TDD)** usando `Nest.js`
-- **Desenvolvimento orientado a comportamento (BDD)** usando `Cucumber`
-- **Integração Contínua (CI)** com `GitHub Actions`
-- **Metodologias Ágeis** (`Scrum` e `Kanban`)
-
-Possuo conhecimento nas linguagens de programação **Javascript, Java e noções básicas de Python**. Também possuo experiência prática no **desenvolvimento front-end de aplicações web utilizando React**.
+Possuo mais de **12 anos de experiência como Designer Gráfico**, atuando com **criação de interfaces digitais, identidade visual e comunicação de marcas** — o que me proporcionou uma base sólida em **estética visual, usabilidade, design centrado no usuário** e **metodologias ágeis de desenvolvimento**.
 
 ---
 
-### 🎯 Objetivo Profissional
-
-Busco minha primeira oportunidade como **Analista de QA Júnior** ou **Estagiário em QA**, para aplicar meus conhecimentos, **aprender continuamente** e **contribuir com a melhoria dos processos de teste e desenvolvimento** — garantindo **qualidade, confiabilidade e eficiência** nas entregas.  
+## 🚀 Atualmente estou me aprofundando em:
+- **JavaScript (ES6+)**, **TypeScript**, **React.js** e **Next.js**  
+- **Tailwind CSS** e **Styled Components**  
+- **Integração com APIs RESTful** e consumo de dados dinâmicos utilizando **React Hooks**, **Context API** e **Axios**, garantindo aplicações **fluídas e escaláveis**  
+- Noções de **Back-end com Node.js, Express e Prisma ORM**  
+- **Bancos de dados relacionais** com **SQL** e **PostgreSQL**
 
 ---
 
-📫 **Vamos nos conectar?**  
-[LinkedIn](http://www.linkedin.com/in/guspedrosa) | [E-mail](mailto:heyguspedrosa@gmail.com)
+## 💻 Experiência Prática
+Tenho experiência prática no **desenvolvimento Front-end de aplicações web** utilizando **Figma**, **React** e **Node.js**, além de **versionamento e colaboração com Git e GitHub**, aplicando fluxos de trabalho como **Git Flow**, **Pull Requests revisados** e **integração contínua (CI/CD)**.
+
+---
+
+## 🎯 Objetivo
+Busco minha **primeira oportunidade como Desenvolvedor Front-end Júnior**, onde eu possa aplicar meus conhecimentos para criar **soluções escaláveis, acessíveis e de alto desempenho**.
+
+---
+
+## 🌐 Contatos
+📫 **Email:** [heyguspedrosa@gmail.com](mailto:heyguspedrosa@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/guspedrosa](https://linkedin.com/in/guspedrosa) 
+
 
 
 <!--
