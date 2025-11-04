@@ -10,7 +10,7 @@ Possuo mais de **12 anos de experiência como Designer Gráfico**, atuando com *
 ## 🚀 Atualmente estou me aprofundando em:
 - **JavaScript (ES6+)**, **TypeScript**, **React.js** e **Next.js**  
 - **Tailwind CSS** e **Styled Components**  
-- **Integração com APIs RESTful** e consumo de dados dinâmicos utilizando **React Hooks**, **Context API** e **Axios**, garantindo aplicações **fluídas e escaláveis**  
+- **Integração com APIs RESTful** e consumo de dados dinâmicos utilizando **React Hooks**, **Context API** e **Axios**  
 - Noções de **back-end com Node.js, Express e Prisma ORM**  
 - **Bancos de dados relacionais** com **SQL** e **PostgreSQL**
 - Noções de **Java** com **Spring**
@@ -22,7 +22,7 @@ Tenho experiência prática no **desenvolvimento de aplicações web** utilizand
 ---
 
 ## 🎯 Objetivo
-Busco minha **primeira oportunidade como Desenvolvedor Front-end Júnior**, onde eu possa aplicar meus conhecimentos para criar **soluções escaláveis, acessíveis e de alto desempenho**.
+Busco minha **primeira oportunidade como Desenvolvedor Front-End Júnior**, onde eu possa aplicar meus conhecimentos para criar **soluções escaláveis, acessíveis e de alto desempenho**.
 
 ---
 
