@@ -3,7 +3,7 @@
                                               
 
 ```
-👋 Olá, sou o Gustavo Pedrosa!
+👋 Sou o Gustavo Pedrosa, Dev Front-end e UX/UI Designer
 👀 Interessado em tecnologia, design, música e games
 🌱 Sempre aprendendo muitas coisas novas (sempre!)
 🚀 Em transição de carreira
