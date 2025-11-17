@@ -1,4 +1,7 @@
+
+
 <img width="448" height="124" alt="helloworld" src="https://github.com/user-attachments/assets/ad3ea09e-5a3f-41f0-a843-55a0edf59080" />
+
                                               
 ```
 👋 Olá, sou o Gustavo Pedrosa!
