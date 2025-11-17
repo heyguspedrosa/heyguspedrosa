@@ -1,7 +1,7 @@
 
-<img width="448" height="124" alt="helloworld" src="https://github.com/user-attachments/assets/ad3ea09e-5a3f-41f0-a843-55a0edf59080" />
-
+<img width="448" height="105" alt="helloworld" src="https://github.com/user-attachments/assets/0305a377-09b7-441b-a9c8-83208b6d2278" />
                                               
+
 ```
 👋 Olá, sou o Gustavo Pedrosa!
 👀 Interessado em tecnologia, design, música e games
