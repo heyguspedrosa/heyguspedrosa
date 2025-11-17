@@ -1,24 +1,17 @@
-# 👋 Olá, sou o Gustavo Pedrosa!
+👋 Olá, sou o Gustavo Pedrosa!
+👀 Interessado em Código, Design, Música, Vídeo Games  
+🌱 Sempre aprendendo muitas coisas novas, sempre  
+🔄 Em transição de carreira  
+💬 *never settle*
 
-- 👀 Interessado em Código, Design, Música, Vídeo Games  
-- 🌱 Sempre aprendendo muitas coisas novas, sempre  
-- 🔄 Em transição de carreira  
-- 💬 *never settle*
-
----
-
-## 🧑‍💻 Linguagens
+🧑‍💻 Linguagens
 > JavaScript, TypeScript, Python, SQL
 
----
-
-## 🛠️ Ferramentas & Frameworks
+🛠️ Ferramentas & Frameworks
 - [**React**](https://react.dev/) — desenvolvimento web  
 - [**Next.js**](https://nextjs.org/) — SSR, SSG e rotas híbridas
 - [**Node.js**](https://nodejs.org/) — ambiente de execução JavaScript no backend  
 - [**Figma**](https://www.figma.com/) — design de interfaces e prototipação
-
----
 
 ## 🌐 Social 
 - [**Linkedin**](https://www.figma.com/](https://www.linkedin.com/in/guspedrosa/)  
