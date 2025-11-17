@@ -1,6 +1,6 @@
 ```
 👋 Olá, sou o Gustavo Pedrosa!
-👀 Interessado em tecnologia, design, música e vídeo games
+👀 Interessado em tecnologia, design, música e games
 🌱 Sempre aprendendo muitas coisas novas (sempre!)
 🚀 Em transição de carreira
 💬 "never settle"
@@ -9,14 +9,14 @@ Linguagens:
 >_ JavaScript, TypeScript, Python, SQL
 
 Ferramentas:
-↳ [React] — desenvolvimento web  
-↳ [Next.js] — SSR, SSG e rotas híbridas
-↳ [Node.js] — ambiente de execução JavaScript no backend
-↳ [Tailwind CSS] — utilitários CSS 
-↳ [Figma] — design de interfaces e prototipação
+[React] — desenvolvimento web  
+[Next.js] — SSR, SSG e rotas híbridas
+[Node.js] — ambiente de execução JavaScript no backend
+[Tailwind CSS] — utilitários CSS 
+[Figma] — design de interfaces e prototipação
 
 Social:
-[LinkedIn](https://www.linkedin.com/in/guspedrosa/) | [Instagram](https://www.instagram.com/guspedrosa/)
+[LinkedIn] — https://www.linkedin.com/in/guspedrosa/ | [Instagram] — https://www.instagram.com/guspedrosa/
 
 ```
 
