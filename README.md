@@ -1,7 +1,7 @@
 ```
 👋 Olá, sou o Gustavo Pedrosa!
 👀 Interessado em tecnologia, design, música e vídeo games
-🌱 Sempre aprendendo muitas coisas novas (sempre!)
+🌱 Sempre aprendendo muitas coisas novas *(sempre!)*
 🚀 Em transição de carreira
 💬 "never settle"
 
