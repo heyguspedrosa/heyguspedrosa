@@ -1,21 +1,21 @@
-👋 Olá, sou o Gustavo Pedrosa!
-👀 Interessado em Código, Design, Música, Vídeo Games  
-🌱 Sempre aprendendo muitas coisas novas, sempre  
-🔄 Em transição de carreira  
-💬 *never settle*
+:wave: Olá, sou o Gustavo Pedrosa!
+:eyes: Interessado em código, design, música e vídeo games
+:seedling: Sempre aprendendo muitas coisas novas (sempre!)
+:arrows_counterclockwise: Em transição de carreira
+:speech_balloon: "never settle"
 
-🧑‍💻 Linguagens
-> JavaScript, TypeScript, Python, SQL
+Linguagens:
+> JavaScript, TypeScript, Dart, Python
 
-🛠️ Ferramentas & Frameworks
-- [**React**](https://react.dev/) — desenvolvimento web  
-- [**Next.js**](https://nextjs.org/) — SSR, SSG e rotas híbridas
-- [**Node.js**](https://nodejs.org/) — ambiente de execução JavaScript no backend  
-- [**Figma**](https://www.figma.com/) — design de interfaces e prototipação
+Ferramentas:
+- [React](https://react.dev/) — desenvolvimento web  
+- [Next.js](https://nextjs.org/) — SSR, SSG e rotas híbridas
+- [Node.js](https://nodejs.org/) — ambiente de execução JavaScript no backend
+- [Tailwind CSS](https://tailwindcss.com/) — utilitários CSS 
+- [Figma](https://www.figma.com/) — design de interfaces e prototipação
 
-## 🌐 Social 
-- [**Linkedin**](https://www.figma.com/](https://www.linkedin.com/in/guspedrosa/)  
-- [**Instagram**](https://www.figma.com/](https://www.instagram.com/guspedrosa/)
+Social:
+[LinkedIn](https://www.linkedin.com/in/guspedrosa/) | [Instagram](https://www.instagram.com/guspedrosa/)
 
 <!--
 ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
