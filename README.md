@@ -9,14 +9,14 @@ Linguagens:
 >_ JavaScript, TypeScript, Python, SQL
 
 Ferramentas:
-[React] — desenvolvimento web  
-[Next.js] — SSR, SSG e rotas híbridas
-[Node.js] — ambiente de execução JavaScript no backend
-[Tailwind CSS] — utilitários CSS 
-[Figma] — design de interfaces e prototipação
+React — desenvolvimento web  
+Next.js — SSR, SSG e rotas híbridas
+Node.js — ambiente de execução JavaScript no backend
+Tailwind CSS — utilitários CSS 
+Figma — design de interfaces e prototipação
 
 Social:
-[LinkedIn] — in/guspedrosa/ | [Instagram] — @guspedrosa
+LinkedIn — in/guspedrosa/ | Instagram — @guspedrosa
 
 ```
 
