@@ -16,7 +16,7 @@ Ferramentas:
 [Figma] — design de interfaces e prototipação
 
 Social:
-[LinkedIn] — https://www.linkedin.com/in/guspedrosa/ | [Instagram] — https://www.instagram.com/guspedrosa/
+[LinkedIn] — in/guspedrosa/ | [Instagram] — @guspedrosa
 
 ```
 
