@@ -20,7 +20,6 @@ Figma — design de interfaces e prototipação
 
 Social:
 LinkedIn — in/guspedrosa/ | Instagram — @guspedrosa
-
 ```
 
 <!--
