@@ -2,7 +2,7 @@
 <img width="448" height="105" alt="helloworld" src="https://github.com/user-attachments/assets/0305a377-09b7-441b-a9c8-83208b6d2278" />
 
 ```
-👋 Sou o Gustavo Pedrosa, Dev Fullstack e UX/UI Designer
+👋 Sou o Gustavo Pedrosa, Dev Front-end e UX/UI Designer
 👀 Interessado em tecnologia, design, música e games
 🌱 Sempre aprendendo muitas coisas novas (sempre!)
 🚀 Em transição de carreira
